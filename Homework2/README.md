@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 2
 
 [Полное условие](https://drive.google.com/drive/folders/1-tXhZ30zHMxPPoUAmBpaw-q1vDZhRm54)
 
